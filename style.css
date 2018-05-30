@@ -702,6 +702,8 @@ input.btn.btn-primary{
 }
 @media only screen and (max-width: 600px){
  input.btn.btn-primary{
+  align-items:center;
+  text-align:center;
   margin-left:-100px;
  margin-right:1000px;
  margin-top:30px;
