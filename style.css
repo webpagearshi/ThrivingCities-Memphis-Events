@@ -696,15 +696,15 @@ footer{
 }
 /*sign up button in the scroll section */
 input.btn.btn-primary{
- margin-left:600px;
+ margin-left:700px;
  margin-top:30px;
  width:200px;
 }
 @media only screen and (max-width: 600px){
  input.btn.btn-primary{
- margin-left:200px;
+ margin-left:-300px;
  margin-top:30px;
- width:150px;
+ width:200px;
 }
 }
 /*scroll to the top button*/
