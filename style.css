@@ -704,9 +704,7 @@ input.btn.btn-primary{
  input.btn.btn-primary{
   align-items:center;
   text-align:center;
-  margin-left:-100px;
- margin-right:1000px;
- margin-top:30px;
+   margin-top:30px;
  width:150px;
 }
 }
