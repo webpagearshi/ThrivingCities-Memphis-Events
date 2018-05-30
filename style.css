@@ -520,10 +520,7 @@ text-decoration: none;
   width: 100%;
 }
 
-.image {
- 
-  
-}
+
 
 .overlay {
   position: absolute;
@@ -702,6 +699,10 @@ footer{
     text-align: left;
     line-height: 20px;
   }
+}
+input.btn.btn-primary{
+ margin-left:500px;
+ margin-top:30px;
 }
 /*scroll to the top button*/
 #myBtn {
