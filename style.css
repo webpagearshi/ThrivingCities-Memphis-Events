@@ -681,15 +681,9 @@ footer{
  transform: translateX(-100%); 
  }
 }
-.special{
- margin-top:20px;
- margin-left:200px!important;
-}
+
 @media only screen and (max-width: 600px){
-  .extra{
-    margin-left: 140px;
-    margin-top: 40px;
-  }
+  
   .scroll-left2  {
     height: 150px;
     
@@ -700,9 +694,18 @@ footer{
     line-height: 20px;
   }
 }
+/*sign up button in the scroll section */
 input.btn.btn-primary{
- margin-left:500px;
+ margin-left:600px;
  margin-top:30px;
+ width:200px;
+}
+@media only screen and (max-width: 600px){
+ input.btn.btn-primary{
+ margin-left:200px;
+ margin-top:30px;
+ width:150px;
+}
 }
 /*scroll to the top button*/
 #myBtn {
