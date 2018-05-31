@@ -704,10 +704,10 @@ input.btn.btn-primary{
  input.btn.btn-primary{
   align-items:center;
  text-align:center;
-  margin-left:-30px;
+  margin-left:-10px;
   margin-right:800px;
    margin-top:30px;
- width:150px;
+ width:100px;
 }
 }
 /*scroll to the top button*/
